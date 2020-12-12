@@ -9,7 +9,7 @@ Aberta a desafios para a minha evolução como Developer 😄.
 - 📌 Sou do Rio de Janeiro e moro em Campos dos Goytacazes.
 - 👩🏻‍💻 Front-End Júnior.
 - 🔍 Aberta a novas oportunidades.
-- ⚙️HTML5 e CSS3.
+- ⚙️HTML5, CSS3, JavaScript e Vue.js.
 - 📰 Estudando pelo curso 🐺 [Origamid](https://www.origamid.com)
 - Acompanhe essa jornada: [Projetos](https://github.com/larissadantier?tab=repositories)
 

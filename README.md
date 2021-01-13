@@ -25,3 +25,6 @@ Aberta a desafios para a minha evolução como Developer 😄.
  <a href="https://www.instagram.com/larissa.dantier/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+ <a href="mailto:larissa_dantier@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp;

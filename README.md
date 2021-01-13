@@ -20,7 +20,7 @@ Aberta a desafios para a minha evolução como Developer 😄.
 
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <br>
+<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ## Me encontre aqui 👇🏻
 <a href="https://www.linkedin.com/in/larissadantier/" target="_blank">
@@ -35,4 +35,4 @@ Aberta a desafios para a minha evolução como Developer 😄.
 
 ## Workspace Spec 🖥️
 ![image](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![image](https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) <br>
+![image](https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 

@@ -33,6 +33,6 @@ Aberta a desafios para a minha evolução como Developer 😄.
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
   </a>&nbsp;&nbsp; 
 
-# 💻 Workspace Spec
+# 🖥️ Workspace Spec
 ![image](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) <br>

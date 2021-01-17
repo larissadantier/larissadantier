@@ -1,20 +1,21 @@
 # Hey 👋
 
 Meu nome é Larissa Ruthyle 🙋🏻, estudante de Sistemas de informação 🎓 e estou na jornada dos estudos para me tornar uma Desenvolvedora Front-end Sênior 💻.
-
-Aberta a desafios para a minha evolução como Developer 😄.
-
 ### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
 
 - 📌 Sou do Rio de Janeiro e moro em Campos dos Goytacazes.
 - 👩🏻‍💻 Front-End Júnior.
-- 🔍 Aberta a novas oportunidades.
-- 📰 Estudando pelo curso 🐺 [Origamid](https://www.origamid.com)
-- Acompanhe essa jornada: [Projetos](https://github.com/larissadantier?tab=repositories)
+- 🔍 Aberta a desafios para a minha evolução como Developer.
+- <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/larissadantier?tab=repositories)</a>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=larissadantier&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a ><img src="https://github-readme-stats.vercel.app/api?username=larissadantier&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+## Cursos 📚
+- <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
+- <a href="#" target="_blank"> [UI Design à Prova de Balas](https://gabrielsilvestri.com.br/cursos/) 🖥️ <a>
+- <a href="#" target="_blank"> [UX Design Essencial](https://gabrielsilvestri.com.br/cursos/) 👩<a>
 
 ## Skills 🚀
 

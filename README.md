@@ -14,9 +14,9 @@ Meu nome é Larissa Ruthyle 🙋🏻, estudante de Sistemas de informação 🎓
 
 ## Cursos 📚
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
-- <a href="#" target="_blank"> [UI Design à Prova de Balas](https://gabrielsilvestri.com.br/cursos/) 🖥️ <a>
-- <a href="#" target="_blank"> [UX Design Essencial](https://gabrielsilvestri.com.br/cursos/) 👩<a>
-- <a href="#" target="_blank"> [React.JS e Next.JS](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/) 👩<a>
+- <a href="#" target="_blank"> [UI Design à Prova de Balas](https://gabrielsilvestri.com.br/cursos/) 🎨<a>
+- <a href="#" target="_blank"> [UX Design Essencial](https://gabrielsilvestri.com.br/cursos/) 🎨<a>
+- <a href="#" target="_blank"> [React.JS e Next.JS](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/) 💻<a>
 
 ## Skills 🚀
 

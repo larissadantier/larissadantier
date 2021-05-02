@@ -9,7 +9,8 @@ Meu nome é Larissa Ruthyle 🙋🏻, estudante de Sistemas de informação 🎓
 - <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/larissadantier?tab=repositories)</a>
 
 <p align='center'>
-  <a ><img src="https://github-readme-stats.vercel.app/api?username=larissadantier&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=larissadantier&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadantier&layout=compact&theme=dark" width="293"></a>
 </p>
 
 ## Cursos 📚

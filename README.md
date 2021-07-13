@@ -1,6 +1,6 @@
 # Hey 👋
 
-Meu nome é Larissa Ruthyle 🙋🏻, estudante de Sistemas de informação 🎓 e estou na jornada dos estudos para me tornar uma Desenvolvedora Front-end Sênior 💻.
+Meu nome é Larissa Dantier 🙋🏻, estudante de Sistemas de informação 🎓 e estou na jornada dos estudos para me tornar uma Desenvolvedora Front-end Sênior 💻.
 ### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
 
 - 📌 Sou do Rio de Janeiro e moro em Campos dos Goytacazes.

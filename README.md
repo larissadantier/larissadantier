@@ -13,6 +13,8 @@ Meu nome é Larissa Dantier 🙋🏻, estudante de Sistemas de informação 🎓
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadantier&layout=compact&theme=dark" width="293"></a>
 </p>
 
+![Snake animation](https://github.com/larissadantier/larissadantier/blob/output/github-contribution-grid-snake.svg)
+
 ## Cursos 📚
 - <a href="#" target="_blank">[Rocketseat (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>

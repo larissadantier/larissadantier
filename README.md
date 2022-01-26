@@ -16,10 +16,9 @@ Meu nome é Larissa Dantier 🙋🏻, estudante de Sistemas de informação 🎓
 ![Snake animation](https://github.com/larissadantier/larissadantier/blob/output/github-contribution-grid-snake.svg)
 
 ## Cursos 📚
-- <a href="#" target="_blank">[Rocketseat (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
+- <a href="#" target="_blank">[Ignite (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
+- <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
-- <a href="#" target="_blank"> [UI Design à Prova de Balas](https://gabrielsilvestri.com.br/cursos/) 🎨<a>
-- <a href="#" target="_blank"> [UX Design Essencial](https://gabrielsilvestri.com.br/cursos/) 🎨<a>
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
   

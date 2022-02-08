@@ -1,11 +1,11 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 
-Meu nome é Larissa Dantier 🙋🏻, estudante de Sistemas de informação 🎓 e estou na jornada dos estudos para me tornar uma Desenvolvedora Front-end Sênior 💻.
+Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Universidade Vila Velha) 🎓 e estou na jornada dos estudos onde você pode me acompanhar aqui para me tornar uma Desenvolvedora Front-end Sênior e logo mais uma Dev FullStack 💻.
 ### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
 
-- 📌 Sou do Rio de Janeiro e moro em Campos dos Goytacazes.
-- 👩🏻‍💻 Front-End Júnior.
-- 🔍 Aberta a desafios para a minha evolução como Developer.
+- 📌 Sou de Campos Goytacazes/RJ mas no momento estou morando em Vila Velha/ES.
+- 👩🏻‍💻 Developer Front-End Júnior.
+- 🔍 Aberta a desafios para a minha evolução como Desenvolvedora.
 - <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/larissadantier?tab=repositories)</a>
 ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
 <p align='center'>
@@ -19,6 +19,7 @@ Meu nome é Larissa Dantier 🙋🏻, estudante de Sistemas de informação 🎓
 - <a href="#" target="_blank">[Ignite (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
+- <a href="#" target="_blank">[Curso de Figma](https://cursodefigma.com/) 🎨</a>
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
 

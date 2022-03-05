@@ -24,7 +24,6 @@ Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Uni
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
 
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></a>
@@ -42,6 +41,9 @@ Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Uni
   </a>&nbsp;&nbsp;
  <a href="mailto:larissa_dantier@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5522997599571">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
   </a>&nbsp;&nbsp; 
 
 ## Workspace Spec 🖥️

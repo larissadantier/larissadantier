@@ -1,4 +1,4 @@
-# Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+# Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
 Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Universidade Vila Velha) 🎓 e estou na jornada dos estudos onde você pode me acompanhar aqui para me tornar uma Desenvolvedora Front-end Sênior e logo mais uma Dev FullStack 💻.
 ### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
@@ -7,10 +7,10 @@ Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Uni
 - 👩🏻‍💻 Developer Front-End Júnior.
 - 🔍 Aberta a desafios para a minha evolução como Desenvolvedora.
 - <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/larissadantier?tab=repositories)</a>
-## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 <p align='center'>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=larissadantier&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadantier&layout=compact&theme=dark" width="293"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=larissadantier&show_icons=true&count_private=true&theme=dark" width=350></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadantier&layout=compact&theme=dark" width=293></a>
 </p>
 
 ![Snake animation](https://github.com/larissadantier/larissadantier/blob/output/github-contribution-grid-snake.svg)
@@ -21,15 +21,15 @@ Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Uni
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
 - <a href="#" target="_blank">[Curso de Figma](https://cursodefigma.com/) 🎨</a>
 
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
+## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></a>
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
+<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
+<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
+<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>
+<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
 
 ## Me encontre aqui 👇🏻
 <a href="https://www.linkedin.com/in/larissadantier/" target="_blank">

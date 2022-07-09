@@ -1,6 +1,7 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Universidade Vila Velha) 🎓 e estou na jornada dos estudos onde você pode me acompanhar aqui para me tornar uma Desenvolvedora Front-end Sênior e logo mais uma Dev FullStack 💻.
+Meu nome é Larissa Dantier 🙋🏻. Curso Sistemas de informação na <a href="#" target="_blank">[Universidade Vila Velha - UVV](https://uvv.br/) 🎓</a> e atuo como desenvolvedora Front-End Jr utilizando tecnologias como ReactJS, React Native, JavaScript e entre outros! Tenho como objetivo me tornar uma Desenvolvedora Front-end Pleno/Sênior 💻. Você pode acompanhar a minha jornada por aqui 😄.
+
 ### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
 
 - 📌 Sou de Campos Goytacazes/RJ mas no momento estou morando em Vila Velha/ES.
@@ -17,19 +18,25 @@ Meu nome é Larissa Dantier 🙋🏻, curso Sistemas de informação na UVV (Uni
 
 ## Cursos 📚
 - <a href="#" target="_blank">[Ignite (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
+- <a href="#" target="_blank">[Ignite (Trilha React Native)](https://rocketseat.com.br/ignite) 🚀</a>
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
 - <a href="#" target="_blank">[Curso de Figma](https://cursodefigma.com/) 🎨</a>
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
+<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'></a>
 <a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
 <a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
 <a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></a>
 <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
 <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>
 <a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
+<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'></a>
+
 
 ## Me encontre aqui 👇🏻
 <a href="https://www.linkedin.com/in/larissadantier/" target="_blank">

@@ -1,6 +1,8 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Meu nome é Larissa Dantier 🙋🏻. Curso Sistemas de informação na <a href="#" target="_blank">[Universidade Vila Velha - UVV](https://uvv.br/) 🎓</a> e atuo como desenvolvedora Front-End Jr utilizando tecnologias como ReactJS, React Native, JavaScript e entre outros! Tenho como objetivo me tornar uma Desenvolvedora Front-end Pleno/Sênior 💻. Você pode acompanhar a minha jornada por aqui 😄.
+Olá, sou a Larissa 🙋🏻. Bacharelando em Sistemas de informação 🎓 e me aprimorando em cursos com foco na área de Front-end. Apaixonada por games, jogos de tabuleiro e cubos mágicos! Atuo como desenvolvedora Front-End utilizando tecnologias como ReactJS, React Native, JavaScript, TypeScript e entre outros! 
+
+Tenho como objetivo me tornar uma Desenvolvedora Front-end Pleno/Sênior 💻. Você pode acompanhar a minha jornada por aqui 😄.
 
 ### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
 

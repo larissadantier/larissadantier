@@ -11,11 +11,10 @@ Tenho como objetivo me tornar uma Desenvolvedora Front-end Pleno/Sênior 💻. V
 - 🔍 Aberta a desafios para a minha evolução como Desenvolvedora.
 - <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/larissadantier?tab=repositories)</a>
 ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
-<p align='center'>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=larissadantier&show_icons=true&count_private=true&theme=dark" width=350></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadantier&layout=compact&theme=dark" width=293></a>
-</p>
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissadantier&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ![Snake animation](https://github.com/larissadantier/larissadantier/blob/output/github-contribution-grid-snake.svg)
 
 ## Cursos 📚

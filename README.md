@@ -6,7 +6,7 @@ Tenho como objetivo me tornar uma Desenvolvedora Front-end Pleno/Sênior 💻. V
 
 ### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
 
-- 📌 Sou de Campos Goytacazes/RJ mas no momento estou morando em Vila Velha/ES.
+- 📌 Vila Velha/ES.
 - 👩🏻‍💻 Developer Front-End.
 - 🔍 Aberta a desafios para a minha evolução como Desenvolvedora.
 - <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/larissadantier?tab=repositories)</a>

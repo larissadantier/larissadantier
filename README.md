@@ -1,6 +1,6 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Olá, sou a Larissa 🙋🏻. Bacharelando em Sistemas de informação 🎓 e me aprimorando em cursos com foco na área de Front-end. Apaixonada por games, jogos de tabuleiro e cubos mágicos! Atuo como desenvolvedora Front-End utilizando tecnologias como ReactJS, React Native, JavaScript, TypeScript e entre outros! 
+Olá, sou a Larissa 🙋🏻. Bacharelando em Sistemas de informação 🎓 e me aprimorando em cursos com foco na área de Front-end. Apaixonada por games, jogos de tabuleiro e cubos mágicos! Atuo como desenvolvedora Front-End utilizando tecnologias como HTML, CSS ReactJS, React Native, NodeJS (básico), JavaScript, TypeScript, TDD (Test Driven Development), Testes unitários, Jest, Express (básico), Docker, API Rest, Storybook e Styled Components! 
 
 Tenho como objetivo me tornar uma Desenvolvedora Front-end Pleno/Sênior 💻. Você pode acompanhar a minha jornada por aqui 😄.
 

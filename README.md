@@ -15,6 +15,12 @@ Tenho como objetivo me tornar uma Desenvolvedora Front-end Pleno/Sênior 💻. V
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissadantier&theme=dark&show_icons=true&card_width=400)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissadantier&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissadantier/larissadantier/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissadantier/larissadantier/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissadantier/larissadantier/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Cursos 📚
 - <a href="#" target="_blank">[Ignite (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
 - <a href="#" target="_blank">[Ignite (Trilha React Native)](https://rocketseat.com.br/ignite) 🚀</a>

@@ -1,6 +1,6 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Olá, sou a Larissa 🙋🏻. Graduada em Sistemas de informação na UVV 🎓 e me aprimorando em cursos com foco na área de Front-end. Apaixonada por games, jogos de tabuleiro e cubos mágicos! Atuo como desenvolvedora Front-End utilizando tecnologias como HTML, CSS, API Rest, JavaScript, TypeScript, ReactJS, React Native, NodeJS (básico), Express (básico), Jest, Docker, Storybook, Styled Components e Material UI! 
+Olá, sou a Larissa 🙋🏻. Graduada em Sistemas de informação na UVV 🎓 e me aprimorando em cursos com foco na área de Front-end. Apaixonada por games, jogos de tabuleiro e cubos mágicos! Atuo como desenvolvedora Front-End utilizando tecnologias como HTML, CSS, API Rest, JavaScript, TypeScript, ReactJS, React Native, Storybook, Jest, Testing Library, Docker, Material UI, Styled Components, Tailwind CSS, Zod, Yup, React Hook Form, React Router Dom e TanStack Query! 
 
 - 📌 Vila Velha/ES.
 - 👩🏻‍💻 Developer Front-End.

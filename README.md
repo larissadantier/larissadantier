@@ -54,5 +54,5 @@ Olá, sou a Larissa 🙋🏻. Graduada em Sistemas de informação na UVV 🎓 e
   </a>&nbsp;&nbsp; 
 
 ## Workspace Spec 🖥️
-![image](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![image](https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
+![image](https://img.shields.io/badge/NVIDIA-GTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![image](https://img.shields.io/badge/AMD-Ryzen_7_5800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 

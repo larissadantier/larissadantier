@@ -6,6 +6,10 @@ Hi, I'm Larissa 🙋🏻. I'm an Information Systems graduate from UVV 🎓 and 
 - 👩🏻‍💻 Developer Front-End.
 - 🔍 Open to challenges for my evolution as a Developer.
 - <a href="#" target="_blank">[Follow this journey](https://github.com/larissadantier?tab=repositories)</a>
+
+## Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,nestjs,express,postgres,mysql,prisma,docker,tailwind,materialui,styledcomponents,sass,jest,cypress,vitest,git,figma&theme=dark)](https://skillicons.dev)
+
 ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissadantier&theme=dark&show_icons=true&card_width=400)
@@ -24,9 +28,6 @@ Hi, I'm Larissa 🙋🏻. I'm an Information Systems graduate from UVV 🎓 and 
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
 - <a href="#" target="_blank">[Course of Figma](https://cursodefigma.com/) 🎨</a>
-
-## Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,nestjs,express,postgres,mysql,prisma,docker,tailwind,materialui,styledcomponents,sass,jest,cypress,vitest,git,figma&theme=dark)](https://skillicons.dev)
 
 ## Find me here 👇🏻
 <a href="https://www.linkedin.com/in/larissadantier/?locale=en_US" target="_blank">

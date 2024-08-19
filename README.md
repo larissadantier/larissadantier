@@ -1,11 +1,11 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Olá, sou a Larissa 🙋🏻. Graduada em Sistemas de informação na UVV 🎓 e me aprimorando em cursos com foco na área de Front-end. Apaixonada por games, jogos de tabuleiro e cubos mágicos! Atuo como desenvolvedora Front-End utilizando tecnologias como HTML, CSS, API Rest, JavaScript, TypeScript, ReactJS, React Native, Storybook, Jest, Testing Library, Docker, Material UI, Styled Components, Tailwind CSS, Zod, Yup, React Hook Form, React Router Dom e TanStack Query! 
+Hi, I'm Larissa 🙋🏻. I'm an Information Systems graduate from UVV 🎓 and I'm taking courses focused on Front-end. Passionate about games, board games and magic cubes! I work as a Front-End developer using technologies such as HTML, CSS, API Rest, JavaScript, TypeScript, ReactJS, React Native, NodeJS, Storybook, Jest, Testing Library, Vitest, Cypress, Docker, Material UI, Styled Components, Tailwind CSS, Zod, Yup, React Hook Form, React Router Dom,TanStack Query and others! 
 
-- 📌 Vila Velha/ES.
+- 📌 Brazil.
 - 👩🏻‍💻 Developer Front-End.
-- 🔍 Aberta a desafios para a minha evolução como Desenvolvedora.
-- <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/larissadantier?tab=repositories)</a>
+- 🔍 Open to challenges for my evolution as a Developer.
+- <a href="#" target="_blank">[Follow this journey](https://github.com/larissadantier?tab=repositories)</a>
 ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissadantier&theme=dark&show_icons=true&card_width=400)
@@ -17,30 +17,19 @@ Olá, sou a Larissa 🙋🏻. Graduada em Sistemas de informação na UVV 🎓 e
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissadantier/larissadantier/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Cursos 📚
-- <a href="#" target="_blank">[Ignite (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
-- <a href="#" target="_blank">[Ignite (Trilha React Native)](https://rocketseat.com.br/ignite) 🚀</a>
+## Courses 📚
+- <a href="#" target="_blank">[Ignite (Trail ReactJS)](https://www.rocketseat.com.br/formacao/react) 🚀</a>
+- <a href="#" target="_blank">[Ignite (Trail NodeJS)](https://www.rocketseat.com.br/formacao/node) 🚀</a>
+- <a href="#" target="_blank">[Ignite (Trail React Native)](https://www.rocketseat.com.br/formacao/react-native) 🚀</a>
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
-- <a href="#" target="_blank">[Curso de Figma](https://cursodefigma.com/) 🎨</a>
+- <a href="#" target="_blank">[Course of Figma](https://cursodefigma.com/) 🎨</a>
 
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
+## Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,nestjs,express,postgres,mysql,prisma,docker,tailwind,materialui,styledcomponents,sass,jest,cypress,vitest,git,figma&theme=dark)](https://skillicons.dev)
 
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'></a>
-
-
-## Me encontre aqui 👇🏻
-<a href="https://www.linkedin.com/in/larissadantier/" target="_blank">
+## Find me here 👇🏻
+<a href="https://www.linkedin.com/in/larissadantier/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/larissa.dantier/" target="_blank">

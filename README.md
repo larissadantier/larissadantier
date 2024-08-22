@@ -22,12 +22,12 @@ Hi, I'm Larissa 🙋🏻. I'm an Information Systems graduate from UVV 🎓 and 
 </picture>
 
 ## Courses 📚
-- <a href="#" target="_blank">[Ignite (Trail ReactJS)](https://www.rocketseat.com.br/formacao/react) 🚀</a>
-- <a href="#" target="_blank">[Ignite (Trail NodeJS)](https://www.rocketseat.com.br/formacao/node) 🚀</a>
-- <a href="#" target="_blank">[Ignite (Trail React Native)](https://www.rocketseat.com.br/formacao/react-native) 🚀</a>
+- <a href="#" target="_blank">[Ignite (ReactJS Trail)](https://www.rocketseat.com.br/formacao/react) 🚀</a>
+- <a href="#" target="_blank">[Ignite (NodeJS Trail)](https://www.rocketseat.com.br/formacao/node) 🚀</a>
+- <a href="#" target="_blank">[Ignite (React Native Trail)](https://www.rocketseat.com.br/formacao/react-native) 🚀</a>
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 - <a href="#" target="_blank">[Origamid](https://www.origamid.com) 🐺</a>
-- <a href="#" target="_blank">[Course of Figma](https://cursodefigma.com/) 🎨</a>
+- <a href="#" target="_blank">[Figma Course](https://cursodefigma.com/) 🎨</a>
 
 ## Find me here 👇🏻
 <a href="https://www.linkedin.com/in/larissadantier/?locale=en_US" target="_blank">

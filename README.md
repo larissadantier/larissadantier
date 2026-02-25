@@ -1,10 +1,7 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Hi, I'm Larissa 🙋🏻. I'm an Information Systems graduate from UVV 🎓 and I'm taking courses focused on Front-end. Passionate about games, board games and magic cubes! I work as a Front-End developer using technologies such as HTML, CSS, API Rest, JavaScript, TypeScript, ReactJS, React Native, NodeJS, Storybook, Jest, Testing Library, Vitest, Cypress, Docker, Material UI, Styled Components, Tailwind CSS, Zod, Yup, React Hook Form, React Router Dom,TanStack Query and others! 
+Software Engineer Sênior with +5 years of experience
 
-- 📌 Brazil.
-- 👩🏻‍💻 Developer Front-End.
-- 🔍 Open to challenges for my evolution as a Developer.
 - <a href="#" target="_blank">[Follow this journey](https://github.com/larissadantier?tab=repositories)</a>
 
 ## Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>

@@ -2,10 +2,9 @@
 
 Hi, I'm Larissa 🙋🏻. I'm Senior Software Engineer with 5+ years building large-scale, security-critical web applications. Specialized in React, Next.js, and TypeScript, with a focus on frontend architecture, performance, and full-stack ownership
 
-📌 Brazil.
-👩🏻‍💻 Developer Front-End.
-🔍 Open to challenges for my evolution as a Developer.
-Follow this journey
+- 📌 Brazil.
+- 👩🏻‍💻 Developer Front-End.
+- 🔍 Open to challenges for my evolution as a Developer.
 
 - <a href="#" target="_blank">[Follow this journey](https://github.com/larissadantier?tab=repositories)</a>
 

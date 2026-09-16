@@ -1,6 +1,6 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Hi, I'm Larissa 🙋🏻. I'm Senior Software Engineer with 5+ years building large-scale, security-critical web applications. Specialized in React, Node.js, Next.js and TypeScript with a focus on frontend/backend architecture, performance, and full-stack ownership
+Hi, I'm Larissa 🙋🏻. I'm Senior Software Engineer with 6+ years building large-scale, security-critical web applications. Specialized in React, Node.js, Next.js and TypeScript with a focus on frontend/backend architecture, performance, and full-stack ownership
 
 - 📌 Brazil.
 - 👩🏻‍💻 Developer Full Stack.
